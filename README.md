@@ -34,4 +34,6 @@
   name = "Zen"
   ```
 2. Type Inference
-
+  ```
+  name := "Zen"
+  ```
