@@ -26,3 +26,12 @@
 | `string` | ชุดข้อความ | `""` |
 
 > **ยิ่งจำนวนของ bit มากเท่าไร แสดงว่าเราสามารถเก็บค่าได้มากเท่านั้น**
+
+## นิยามตัวแปร (Variable)
+1.  Manual Type 
+  ```
+  var name string 
+  name = "Zen"
+  ```
+2. Type Inference
+
