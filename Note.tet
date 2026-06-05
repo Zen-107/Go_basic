@@ -8,4 +8,8 @@
         git branch -M main
         git remote add origin https://github.com/Zen-107/Go_basic.git
         git push -u origin main
-3.  
+3.  โครงสร้างของคำสั่ง Go 
+    - main() ทำงานอันแรกที่ Go จะเรียกใช้ โดยอัตโนมัติ
+    - ขอบเขต ใช้ {} ในการกำหนดขอบเขตของฟังก์ชัน
+    - comment ใช้ // เพื่อใส่ข้อความในโค้ด หรือ /* */ เพื่อใส่ comment แบบหลายบรรทัด
+4.  
