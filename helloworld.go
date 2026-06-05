@@ -1,6 +1,6 @@
 package main
 
-import "fmt" //แสดงผลออกทางหน้าจอ
+import "fmt" //แสดงผลออกมา
 //ต้องเรียกใช้ package fmt นะ ไม่เรียก Go ลบออกเด้อ
 
 func main() {
