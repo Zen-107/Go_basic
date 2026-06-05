@@ -37,3 +37,7 @@
   ```
   name := "Zen"
   ```
+3. Constant ไม่เปลี่ยนแปลง ค่าตาย
+  ```
+  const name = "Zen"
+  ```
