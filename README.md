@@ -3,7 +3,7 @@
 ## เริ่มต้น (Intro)
 1.  สร้าง Go Modules ขึ้นมา (go.mod) เอาจัดการ Package 
     ด้วยการสั่ง go mod init pratice_101 ใน terminal
-2.  เชื่อมต่อกับ GitHub ผ่าน command line
+2.  เชื่อมต่อกับ GitHub ผ่าน command line  
         echo "# Go_basic" >> README.md  
         git init  
         git add README.md  
